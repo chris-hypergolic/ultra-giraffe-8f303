@@ -66,6 +66,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
+
   - type: blog_feed_section
     title: What's New
     show_recent: true
