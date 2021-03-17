@@ -2,16 +2,13 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: A Safer Earlswood
     subtitle: >-
       Calling all residents and parents of Earlswood: Would you like the streets to be quieter and safer during school run times? Would you like your children to be able to walk to school independently and safely? What if we told you there was a way for both of these things to happen, while still being able to use your vehicle at these times, as well as have any scheduled deliveries/maintenance workers able to access your road too? We’re starting a conversation about bringing School Streets to Earlswood. 
     actions:
       - label: Learn More
         url: /features
         style: primary
-      - label: Contact Us
-        url: /contact
-        style: secondary
     align: left
     image: images/hero.svg
     image_alt: Hero placeholder image
@@ -20,7 +17,7 @@ sections:
     background:
       background_color: blue
       background_image: images/diagonal-lines.svg
-      background_image_opacity: 20
+      background_image_opacity: 10
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section

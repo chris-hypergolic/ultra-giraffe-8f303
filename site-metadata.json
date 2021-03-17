@@ -4,29 +4,29 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Features",
-                "url": "/features",
+                "label": "Benefits",
+                "url": "/benefits",
+                "style": "link"
+            },
+            {
+                "label": "Plan",
+                "url": "/plan",
+                "style": "link"
+            },
+            {
+                "label": "About Us",
+                "url": "/about-us",
+                "style": "link"
+            },
+            {
+                "label": "FAQ",
+                "url": "/faq",
                 "style": "link"
             },
             {
                 "label": "Blog",
                 "url": "/blog",
                 "style": "link"
-            },
-            {
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "label": "Contact Us",
-                "url": "/contact",
-                "style": "primary"
             }
         ]
     },
@@ -34,7 +34,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Contact Us",
+                "label": "About Us",
                 "url": "/contact",
                 "style": "link"
             },
@@ -44,7 +44,7 @@
                 "style": "link"
             }
         ],
-        "has_social": true,
+        "has_social": false,
         "social_links": [
             {
                 "label": "Twitter",

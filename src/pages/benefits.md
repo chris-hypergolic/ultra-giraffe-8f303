@@ -2,29 +2,25 @@
 title: Features
 sections:
   - type: hero_section
-    title: Features
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    title: What is a school street?
+    subtitle: 'The School Streets initiative limits through-traffic on roads outside school entrances through the use of temporary barriers during school opening and closing times. Local residents and businesses are allowed access along with essential vehicles.'
     align: center
   - type: features_section
     features:
-      - title: Feature 1
+      - title: Clean air
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Reducing the number of children being driven to school reduces particulate air pollution around the school; this improves air quality and reduces associated risks of lung and cardiovascular diseases.
         align: left
         image: images/feature.svg
-        image_alt: Feature 1 placeholder image
+        image_alt: Clean air
         image_position: right
         actions:
           - label: Learn More
             url: /about
             style: primary
-      - title: Feature 2
+      - title: Healthy children and adults
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          In London, four in 10 children are considered to be overweight or obese and eight in 10 do not achieve the minimum recommended one hours a day of physical activity.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
@@ -33,15 +29,24 @@ sections:
           - label: Learn More
             url: /style-guide
             style: primary
-      - title: Feature 3
+      - title: Safer streets
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+          Reducing traffic volumes creates safer school zones. Improving walking and cycling routes to school also enhances the safety, connectivity and quality of life for the community as a whole.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
         image_position: right
+        actions:
+          - label: Learn More
+            url: /blog
+            style: primary
+      - title: Freedom for children to travel by foot, bike and scooter
+        content: >-
+          Active school travel is associated with mental health benefits including reduced stress, depression and anxiety; as well as increased happiness.
+        align: left
+        image: images/feature.svg
+        image_alt: Feature 3 placeholder image
+        image_position: left
         actions:
           - label: Learn More
             url: /blog
