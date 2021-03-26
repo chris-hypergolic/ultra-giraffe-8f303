@@ -4,11 +4,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Benefits",
-                "url": "/benefits",
-                "style": "link"
-            },
-            {
                 "label": "Plan",
                 "url": "/plan",
                 "style": "link"
