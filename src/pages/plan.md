@@ -6,19 +6,7 @@ sections:
     align: center
   - type: content_section
     content: >-
-<<<<<<< HEAD
-      We are proposing to trial a School Street at Earlswood Infant School,
-      closing Ifold Road with temporary barriers at the junction with Emlyn Road
-      and with Althorne Road. A reminder that residents will be able to use
-      their vehicles and if you need a delivery at that time or work to be
-      carried out at your home, access will be given. We’ve chosen the Infant
-      School as we are limited by our volunteer numbers and as much as we would
-      love to trial at the Junior School too, we feel confident that running one
-      trial to the highest standard will give the greatest possibility of
-      extending it to the Junior site in time.
-=======
       We are proposing to trial a School Street at Earlswood Infant School, closing Ifold Road with temporary barriers at the junction with Emlyn Road and with Althorne Road. A reminder that residents will be able to use their vehicles and if you need a delivery at that time or work to be carried out at your home, access will be given.
-
   - type: features_section
     features:
       - title: 
@@ -34,7 +22,6 @@ sections:
         image: images/6_inf.png
         image_alt: Clean air
         image_position: right
->>>>>>> updated plan page
 seo:
   title: Who We Are
   description: This is the about us page
