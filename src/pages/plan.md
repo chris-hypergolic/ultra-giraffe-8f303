@@ -15,19 +15,6 @@ sections:
       love to trial at the Junior School too, we feel confident that running one
       trial to the highest standard will give the greatest possibility of
       extending it to the Junior site in time.
-  - title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: content_section
 seo:
   title: Who We Are
   description: This is the about us page
