@@ -10,7 +10,7 @@ sections:
         url: /features
         style: primary
     align: left
-    image: images/hero.svg
+    image: images/3_ewd.JPG
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
@@ -30,7 +30,7 @@ sections:
         content: >-
           Reducing the number of children being driven to school reduces particulate air pollution around the school; this improves air quality and reduces associated risks of lung and cardiovascular diseases.
         align: left
-        image: images/feature.svg
+        image: images/5_s_strt.png
         image_alt: Clean air
         image_position: right
         actions:
@@ -41,7 +41,7 @@ sections:
         content: >-
           In London, four in 10 children are considered to be overweight or obese and eight in 10 do not achieve the minimum recommended one hours a day of physical activity.
         align: left
-        image: images/feature.svg
+        image: images/1_mb.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
@@ -63,7 +63,7 @@ sections:
         content: >-
           Active school travel is associated with mental health benefits including reduced stress, depression and anxiety; as well as increased happiness.
         align: left
-        image: images/feature.svg
+        image: images/2_sctr.jpg
         image_alt: Feature 3 placeholder image
         image_position: left
         actions:
@@ -71,14 +71,9 @@ sections:
             url: /blog
             style: primary
   - type: cta_section
-    title: This Is A CTA
+    title: We’d love to hear from you
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
+      Please drop us a line at LivingEarlswood@gmail.com
     has_background: true
     background_color: gray
 seo:
