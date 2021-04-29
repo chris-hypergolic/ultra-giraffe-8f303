@@ -106,7 +106,9 @@ seo:
       value: School Streets for Earlswood
       keyName: property
     - name: 'og:description'
-      value: The preview of the Starter theme
+      value: >-
+        Calling all residents and parents of Earlswood: we’re starting a
+        conversation about bringing School Streets to our neighbourhood.
       keyName: property
     - name: 'og:image'
       value: /images/5_s_strt.png
