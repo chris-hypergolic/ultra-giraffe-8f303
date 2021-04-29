@@ -95,7 +95,9 @@ sections:
     background_color: gray
 seo:
   title: School Streets for Earlswood
-  description: 'Calling all residents and parents of Earlswood: '
+  description: >-
+    Calling all residents and parents of Earlswood: we’re starting a
+    conversation about bringing School Streets to our neighbourhood.
   extra:
     - name: 'og:type'
       value: website
