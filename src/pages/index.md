@@ -4,7 +4,13 @@ sections:
   - type: hero_section
     title: A Safer Earlswood
     subtitle: >-
-      Calling all residents and parents of Earlswood: Would you like the streets to be quieter and safer during school run times? Would you like your children to be able to walk to school independently and safely? What if we told you there was a way for both of these things to happen, while still being able to use your vehicle at these times, as well as have any scheduled deliveries/maintenance workers able to access your road too? We’re starting a conversation about bringing School Streets to Earlswood. 
+      Calling all residents and parents of Earlswood: Would you like the streets
+      to be quieter and safer during school run times? Would you like your
+      children to be able to walk to school independently and safely? What if we
+      told you there was a way for both of these things to happen, while still
+      being able to use your vehicle at these times, as well as have any
+      scheduled deliveries/maintenance workers able to access your road too?
+      We’re starting a conversation about bringing School Streets to Earlswood. 
     actions:
       - label: Learn More
         url: /features
@@ -22,13 +28,19 @@ sections:
       background_image_repeat: repeat
   - type: hero_section
     title: What is a school street?
-    subtitle: 'The School Streets initiative limits through-traffic on roads outside school entrances through the use of temporary barriers during school opening and closing times. Local residents and businesses are allowed access along with essential vehicles.'
+    subtitle: >-
+      The School Streets initiative limits through-traffic on roads outside
+      school entrances through the use of temporary barriers during school
+      opening and closing times. Local residents and businesses are allowed
+      access along with essential vehicles.
     align: center
   - type: features_section
     features:
       - title: Clean air
         content: >-
-          Reducing the number of children being driven to school reduces particulate air pollution around the school; this improves air quality and reduces associated risks of lung and cardiovascular diseases.
+          Reducing the number of children being driven to school reduces
+          particulate air pollution around the school; this improves air quality
+          and reduces associated risks of lung and cardiovascular diseases.
         align: left
         image: images/5_s_strt.png
         image_alt: Clean air
@@ -39,7 +51,9 @@ sections:
             style: primary
       - title: Healthy children and adults
         content: >-
-          In London, four in 10 children are considered to be overweight or obese and eight in 10 do not achieve the minimum recommended one hours a day of physical activity.
+          In London, four in 10 children are considered to be overweight or
+          obese and eight in 10 do not achieve the minimum recommended one hours
+          a day of physical activity.
         align: left
         image: images/1_mb.jpg
         image_alt: Feature 2 placeholder image
@@ -50,7 +64,9 @@ sections:
             style: primary
       - title: Safer streets
         content: >-
-          Reducing traffic volumes creates safer school zones. Improving walking and cycling routes to school also enhances the safety, connectivity and quality of life for the community as a whole.
+          Reducing traffic volumes creates safer school zones. Improving walking
+          and cycling routes to school also enhances the safety, connectivity
+          and quality of life for the community as a whole.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
@@ -59,9 +75,11 @@ sections:
           - label: Learn More
             url: /blog
             style: primary
-      - title: Freedom for children to travel by foot, bike and scooter
+      - title: 'Freedom for children to travel by foot, bike and scooter'
         content: >-
-          Active school travel is associated with mental health benefits including reduced stress, depression and anxiety; as well as increased happiness.
+          Active school travel is associated with mental health benefits
+          including reduced stress, depression and anxiety; as well as increased
+          happiness.
         align: left
         image: images/2_sctr.jpg
         image_alt: Feature 3 placeholder image
@@ -72,12 +90,11 @@ sections:
             style: primary
   - type: cta_section
     title: We’d love to hear from you
-    subtitle: >-
-      Please drop us a line at LivingEarlswood@gmail.com
+    subtitle: Please drop us a line at LivingEarlswood@gmail.com
     has_background: true
     background_color: gray
 seo:
-  title: Stackbit Starter Theme
+  title: School Streets for Earlswood
   description: The preview of the Starter theme
   extra:
     - name: 'og:type'
