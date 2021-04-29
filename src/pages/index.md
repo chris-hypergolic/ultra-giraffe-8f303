@@ -95,7 +95,7 @@ sections:
     background_color: gray
 seo:
   title: School Streets for Earlswood
-  description: The preview of the Starter theme
+  description: 'Calling all residents and parents of Earlswood: '
   extra:
     - name: 'og:type'
       value: website
