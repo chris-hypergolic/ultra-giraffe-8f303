@@ -119,7 +119,9 @@ seo:
     - name: 'twitter:title'
       value: School Streets for Earlswood
     - name: 'twitter:description'
-      value: The preview of the Starter theme
+      value: >-
+        Calling all residents and parents of Earlswood: we’re starting a
+        conversation about bringing School Streets to our neighbourhood.
     - name: 'twitter:image'
       value: /images/5_s_strt.png
       relativeUrl: true
