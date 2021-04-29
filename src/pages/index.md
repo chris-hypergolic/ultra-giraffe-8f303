@@ -103,7 +103,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Starter Theme
+      value: School Streets for Earlswood
       keyName: property
     - name: 'og:description'
       value: The preview of the Starter theme
