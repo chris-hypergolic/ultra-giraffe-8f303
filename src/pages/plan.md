@@ -3,7 +3,6 @@ title: Plan
 seo:
   title: Who We Are
   description: This is the about us page
-
 template: page
 ---
 
