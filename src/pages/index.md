@@ -13,11 +13,11 @@ sections:
       We’re starting a conversation about bringing School Streets to Earlswood. 
     actions:
       - label: Learn More
-        url: /features
+        url: /plan
         style: primary
     align: left
     image: images/3_ewd.JPG
-    image_alt: Hero placeholder image
+    image_alt: Aerial picture of Earlswood, showing houses and fields with the junior school in the centre
     image_position: right
     has_background: true
     background:
@@ -43,11 +43,11 @@ sections:
           and reduces associated risks of lung and cardiovascular diseases.
         align: left
         image: images/5_s_strt.png
-        image_alt: Clean air
+        image_alt: Children standing in the road outside a school
         image_position: right
         actions:
           - label: Learn More
-            url: /about
+            url: /plan
             style: primary
       - title: Healthy children and adults
         content: >-
@@ -56,11 +56,11 @@ sections:
           a day of physical activity.
         align: left
         image: images/1_mb.jpg
-        image_alt: Feature 2 placeholder image
+        image_alt: Two children cycling in the woods, smiling
         image_position: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /plan
             style: primary
       - title: Safer streets
         content: >-
@@ -68,12 +68,12 @@ sections:
           and cycling routes to school also enhances the safety, connectivity
           and quality of life for the community as a whole.
         align: left
-        image: images/feature.svg
-        image_alt: Feature 3 placeholder image
+        image: images/9_infants.jpg
+        image_alt: The infant school gate, on Ifold Road
         image_position: right
         actions:
           - label: Learn More
-            url: /blog
+            url: /plan
             style: primary
       - title: 'Freedom for children to travel by foot, bike and scooter'
         content: >-
@@ -82,11 +82,11 @@ sections:
           happiness.
         align: left
         image: images/2_sctr.jpg
-        image_alt: Feature 3 placeholder image
+        image_alt: Two children sitting with their scooters in front
         image_position: left
         actions:
           - label: Learn More
-            url: /blog
+            url: /plan
             style: primary
   - type: cta_section
     title: We’d love to hear from you
