@@ -3,6 +3,9 @@ title: Plan
 seo:
   title: Who We Are
   description: This is the about us page
+    robots: []
+  extra: []
+  type: stackbit_page_meta
 template: page
 ---
 
