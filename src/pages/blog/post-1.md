@@ -1,20 +1,21 @@
 ---
-title: A safer Earlswood
+title: A Safer Earlswood
 date: '2021-05-05'
 categories:
   - src/data/categories/news.yaml
   - src/data/categories/general.yaml
+image: images/10_blog_post.jpg
 excerpt: >-
-  A safer Earlswood
+  Introduction to the school streets project for Earlswood Infant and Junior schools
 seo:
-  title: A safer Earlswood
+  title: A Safer Earlswood
   description: 'Introduction to the school streets project for Earlswood Infant and Junior schools'
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: A safer Earlswood
+      value: A Safer Earlswood
       keyName: property
     - name: 'og:description'
       value: 'Introduction to the school streets project for Earlswood Infant and Junior schools'
@@ -22,16 +23,14 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: A safer Earlswood
+      value: A Safer Earlswood
     - name: 'twitter:description'
       value: 'Introduction to the school streets project for Earlswood Infant and Junior schools'
     - name: 'twitter:image'
-      value: images/1.png
+      value: images/10_blog_post.jpg
       relativeUrl: true
 template: post
 ---
-
-A safer Earlswood...
 
 Back in October 2020 a group of local parents started talking about safer streets around both school sites - we don’t know about you, but the roads feel busier than ever. The idea of ‘School Streets’ was raised on social media and in an online community meeting, so since then we’ve been exploring the idea. We’ve been in consultation with Sustrans who have been a tremendous support in explaining how a School Street works, and what’s involved. 
 
