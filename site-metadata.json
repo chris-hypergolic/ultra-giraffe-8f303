@@ -23,8 +23,7 @@
                 "url": "/blog",
                 "style": "link"
             }
-        ],
-        "logo": "images/11_fav.png"
+        ]
     },
     "footer": {
         "has_nav": true,
