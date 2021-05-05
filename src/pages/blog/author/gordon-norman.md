@@ -21,7 +21,7 @@ seo:
       value: This is the author archive page
       keyName: property
     - name: 'og:image'
-      value: images/1.png
+      value: images/11_fav.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
