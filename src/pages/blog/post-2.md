@@ -40,3 +40,8 @@ The head teacher at this Essex  school commented that their traffic problem had 
  
 Does that appeal to anyone? It does us! [Read the report for yourself here](https://www.bbc.co.uk/news/uk-england-essex-56910165).
 
+### Can you help?
+
+A trial School Street scheme will need volunteers and we would love for you to join us. If you’d like to, please email us to set up an initial video call, which if demand calls for it, could be multiple small group sessions to provide more details of the School Streets trial, and help us to put a timetable together for it. Please drop us a line at [LivingEarlswood@gmail.com](mailto:LivingEarlswood@gmail.com)
+
+
